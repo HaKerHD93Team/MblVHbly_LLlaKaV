@@ -1,0 +1,29 @@
+C:\Users\Администратор\AppData\Local\Temporary Projects\Test vk.com\obj\x86\Debug\Test_vk.com.Form1.resources
+C:\Users\Администратор\AppData\Local\Temporary Projects\Test vk.com\obj\x86\Debug\Test_vk.com.Properties.Resources.resources
+C:\Users\Администратор\AppData\Local\Temporary Projects\Test vk.com\obj\x86\Debug\Test vk.com.csproj.GenerateResource.Cache
+C:\Users\Администратор\AppData\Local\Temporary Projects\Test vk.com\bin\Debug\Test vk.com.exe
+C:\Users\Администратор\AppData\Local\Temporary Projects\Test vk.com\bin\Debug\Test vk.com.pdb
+C:\Users\Администратор\AppData\Local\Temporary Projects\Test vk.com\obj\x86\Debug\Test vk.com.exe
+C:\Users\Администратор\AppData\Local\Temporary Projects\Test vk.com\obj\x86\Debug\Test vk.com.pdb
+F:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test vk.com.exe
+F:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test vk.com.pdb
+F:\Projekts\Test_vk_com\Test vk.com\bin\Debug\Test vk.com.exe
+F:\Projekts\Test_vk_com\Test vk.com\bin\Debug\Test vk.com.pdb
+F:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test_vk.com.Form1.resources
+F:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test_vk.com.Properties.Resources.resources
+F:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test vk.com.csproj.GenerateResource.Cache
+F:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test vk.com.csprojResolveAssemblyReference.cache
+H:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test vk.com.exe
+H:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test vk.com.pdb
+H:\Projekts\Test_vk_com\Test vk.com\bin\Debug\Test vk.com.exe
+H:\Projekts\Test_vk_com\Test vk.com\bin\Debug\Test vk.com.pdb
+H:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test vk.com.csprojResolveAssemblyReference.cache
+H:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test_vk.com.Form1.resources
+H:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test_vk.com.Properties.Resources.resources
+H:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test vk.com.csproj.GenerateResource.Cache
+H:\Projekts\Test_vk_com\Test vk.com\bin\Debug\Newtonsoft.Json.dll
+H:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test_vk.com.DevAuth.resources
+H:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test_vk.com.DevPanel.resources
+F:\Projekts\Test_vk_com\Test vk.com\bin\Debug\Newtonsoft.Json.dll
+F:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test_vk.com.DevAuth.resources
+F:\Projekts\Test_vk_com\Test vk.com\obj\x86\Debug\Test_vk.com.DevPanel.resources
